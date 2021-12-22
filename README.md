@@ -1,5 +1,7 @@
 # ligature
 
+Layout encapsulation for Express
+
 ## Usage
 
   npm install --save git@github.com:tingham/ligature.git
