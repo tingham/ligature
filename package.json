@@ -1,0 +1,17 @@
+{
+  "name": "ligature",
+  "version": "0.0.1",
+  "description": "Layout encapsulation for Express",
+  "main": "bin/Ligature.js",
+  "scripts": {
+    "start": "ts-node src/Ligature.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Ingham <tingham@mac.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
